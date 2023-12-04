@@ -10,6 +10,7 @@
 		702EA8AD2B17A56E00D28696 /* Apple_Frameworks_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 702EA8AC2B17A56E00D28696 /* Apple_Frameworks_AppApp.swift */; };
 		702EA8B12B17A57100D28696 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 702EA8B02B17A57100D28696 /* Assets.xcassets */; };
 		702EA8B42B17A57100D28696 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 702EA8B32B17A57100D28696 /* Preview Assets.xcassets */; };
+		7042C20B2B1E0A3500A9F3E4 /* FrameworkGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7042C20A2B1E0A3500A9F3E4 /* FrameworkGridView.swift */; };
 		70EFE5AB2B18D3620073946D /* Framework.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70EFE5AA2B18D3620073946D /* Framework.swift */; };
 /* End PBXBuildFile section */
 
@@ -19,6 +20,7 @@
 		702EA8B02B17A57100D28696 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		702EA8B32B17A57100D28696 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		702EA8B52B17A57100D28696 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7042C20A2B1E0A3500A9F3E4 /* FrameworkGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridView.swift; sourceTree = "<group>"; };
 		70EFE5AA2B18D3620073946D /* Framework.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Framework.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -53,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				702EA8AC2B17A56E00D28696 /* Apple_Frameworks_AppApp.swift */,
+				7042C20A2B1E0A3500A9F3E4 /* FrameworkGridView.swift */,
 				70EFE5AA2B18D3620073946D /* Framework.swift */,
 				702EA8B02B17A57100D28696 /* Assets.xcassets */,
 				702EA8B52B17A57100D28696 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7042C20B2B1E0A3500A9F3E4 /* FrameworkGridView.swift in Sources */,
 				70EFE5AB2B18D3620073946D /* Framework.swift in Sources */,
 				702EA8AD2B17A56E00D28696 /* Apple_Frameworks_AppApp.swift in Sources */,
 			);
