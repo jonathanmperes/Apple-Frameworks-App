@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		702EA8AD2B17A56E00D28696 /* Apple_Frameworks_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 702EA8AC2B17A56E00D28696 /* Apple_Frameworks_AppApp.swift */; };
-		702EA8AF2B17A56E00D28696 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 702EA8AE2B17A56E00D28696 /* ContentView.swift */; };
 		702EA8B12B17A57100D28696 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 702EA8B02B17A57100D28696 /* Assets.xcassets */; };
 		702EA8B42B17A57100D28696 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 702EA8B32B17A57100D28696 /* Preview Assets.xcassets */; };
 		70EFE5AB2B18D3620073946D /* Framework.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70EFE5AA2B18D3620073946D /* Framework.swift */; };
@@ -17,7 +16,6 @@
 /* Begin PBXFileReference section */
 		702EA8A92B17A56E00D28696 /* Apple-Frameworks-App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Apple-Frameworks-App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		702EA8AC2B17A56E00D28696 /* Apple_Frameworks_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apple_Frameworks_AppApp.swift; sourceTree = "<group>"; };
-		702EA8AE2B17A56E00D28696 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		702EA8B02B17A57100D28696 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		702EA8B32B17A57100D28696 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		702EA8B52B17A57100D28696 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -55,7 +53,6 @@
 			isa = PBXGroup;
 			children = (
 				702EA8AC2B17A56E00D28696 /* Apple_Frameworks_AppApp.swift */,
-				702EA8AE2B17A56E00D28696 /* ContentView.swift */,
 				70EFE5AA2B18D3620073946D /* Framework.swift */,
 				702EA8B02B17A57100D28696 /* Assets.xcassets */,
 				702EA8B52B17A57100D28696 /* Info.plist */,
@@ -141,7 +138,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				702EA8AF2B17A56E00D28696 /* ContentView.swift in Sources */,
 				70EFE5AB2B18D3620073946D /* Framework.swift in Sources */,
 				702EA8AD2B17A56E00D28696 /* Apple_Frameworks_AppApp.swift in Sources */,
 			);
