@@ -13,6 +13,11 @@ struct FrameworkGridView: View {
             Image("app-clip")
                 .resizable()
                 .frame(width: 90, height: 90)
+            Text("App Clip")
+                .font(.title2)
+                .fontWeight(.semibold)
+                .scaledToFit()
+                .minimumScaleFactor(0.6)
         }
     }
 }
