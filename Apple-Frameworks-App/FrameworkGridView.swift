@@ -9,7 +9,11 @@ import SwiftUI
 
 struct FrameworkGridView: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack {
+            Image("app-clip")
+                .resizable()
+                .frame(width: 90, height: 90)
+        }
     }
 }
 
