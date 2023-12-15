@@ -15,9 +15,11 @@ struct FrameworkGridView: View {
     ]
     
     var body: some View {
-        LazyVGrid(columns: columns) {
-                ForEach(MockData.frameworks) { framework in
-                    FrameworkTitleView(name: framework.name, imageName: framework.imageName)
+        NavigationView {
+            LazyVGrid(columns: columns) {
+                    ForEach(MockData.frameworks) { framework in
+                        FrameworkTitleView(framework: framework)
+                }
             }
         }
     }
@@ -26,6 +28,7 @@ struct FrameworkGridView: View {
 struct FrameworkGridView_Previews: PreviewProvider {
     static var previews: some View {
         FrameworkGridView()
+            .preferredColorScheme(.dark)
     }
 }
 
