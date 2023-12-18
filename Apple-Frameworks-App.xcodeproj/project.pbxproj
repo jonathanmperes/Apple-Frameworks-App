@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		702E8F702B3087F600E7E28C /* FrameworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 702E8F6F2B3087F600E7E28C /* FrameworkDetailView.swift */; };
 		702EA8AD2B17A56E00D28696 /* Apple_Frameworks_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 702EA8AC2B17A56E00D28696 /* Apple_Frameworks_AppApp.swift */; };
 		702EA8B12B17A57100D28696 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 702EA8B02B17A57100D28696 /* Assets.xcassets */; };
 		702EA8B42B17A57100D28696 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 702EA8B32B17A57100D28696 /* Preview Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		702E8F6F2B3087F600E7E28C /* FrameworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailView.swift; sourceTree = "<group>"; };
 		702EA8A92B17A56E00D28696 /* Apple-Frameworks-App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Apple-Frameworks-App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		702EA8AC2B17A56E00D28696 /* Apple_Frameworks_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apple_Frameworks_AppApp.swift; sourceTree = "<group>"; };
 		702EA8B02B17A57100D28696 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				702EA8AC2B17A56E00D28696 /* Apple_Frameworks_AppApp.swift */,
 				7042C20A2B1E0A3500A9F3E4 /* FrameworkGridView.swift */,
+				702E8F6F2B3087F600E7E28C /* FrameworkDetailView.swift */,
 				70EFE5AA2B18D3620073946D /* Framework.swift */,
 				702EA8B02B17A57100D28696 /* Assets.xcassets */,
 				702EA8B52B17A57100D28696 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				702E8F702B3087F600E7E28C /* FrameworkDetailView.swift in Sources */,
 				7042C20B2B1E0A3500A9F3E4 /* FrameworkGridView.swift in Sources */,
 				70EFE5AB2B18D3620073946D /* Framework.swift in Sources */,
 				702EA8AD2B17A56E00D28696 /* Apple_Frameworks_AppApp.swift in Sources */,
