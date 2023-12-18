@@ -14,6 +14,10 @@ struct FrameworkDetailView: View {
     var body: some View {
         VStack {
             FrameworkTitleView(framework: framework)
+            
+            Text(framework.description)
+                .font(.body)
+                .padding()
         }
     }
 }
