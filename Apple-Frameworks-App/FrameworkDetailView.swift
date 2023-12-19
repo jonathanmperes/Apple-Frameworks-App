@@ -13,11 +13,15 @@ struct FrameworkDetailView: View {
     
     var body: some View {
         VStack {
+            Spacer()
+            
             FrameworkTitleView(framework: framework)
             
             Text(framework.description)
                 .font(.body)
                 .padding()
+            
+            Spacer()
             
             Button {
                 
