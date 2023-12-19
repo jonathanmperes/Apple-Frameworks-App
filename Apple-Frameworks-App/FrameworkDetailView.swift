@@ -18,6 +18,18 @@ struct FrameworkDetailView: View {
             Text(framework.description)
                 .font(.body)
                 .padding()
+            
+            Button {
+                
+            } label: {
+                Text("Learn More")
+                    .font(.title2)
+                    .fontWeight(.semibold)
+                    .frame(width: 280, height: 50)
+                    .background(Color.red)
+                    .foregroundColor(.white)
+                    .cornerRadius(10)
+            }
         }
     }
 }
