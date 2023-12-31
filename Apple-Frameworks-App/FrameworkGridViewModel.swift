@@ -5,4 +5,9 @@
 //  Created by Jonathan Marcelo Peres on 31/12/23.
 //
 
-import Foundation
+import SwiftUI
+
+final class FrameworkGridViewModel: ObservableObject {
+    
+    var selectedFramework: Framework?
+}
