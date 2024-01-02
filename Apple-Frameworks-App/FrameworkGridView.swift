@@ -22,6 +22,9 @@ struct FrameworkGridView: View {
                 LazyVGrid(columns: columns) {
                         ForEach(MockData.frameworks) { framework in
                             FrameworkTitleView(framework: framework)
+                                .onTapGesture {
+                                    viewModel.selectedFramework = framework
+                                }
                     }
                 }
             }
