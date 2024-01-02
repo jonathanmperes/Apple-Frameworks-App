@@ -63,12 +63,12 @@
 				702EA8AC2B17A56E00D28696 /* Apple_Frameworks_AppApp.swift */,
 				7042C20A2B1E0A3500A9F3E4 /* FrameworkGridView.swift */,
 				702E8F6F2B3087F600E7E28C /* FrameworkDetailView.swift */,
+				701178232B41E7C900743C3C /* FrameworkGridViewModel.swift */,
 				70A428512B33122300883F65 /* AFButton.swift */,
 				70EFE5AA2B18D3620073946D /* Framework.swift */,
 				702EA8B02B17A57100D28696 /* Assets.xcassets */,
 				702EA8B52B17A57100D28696 /* Info.plist */,
 				702EA8B22B17A57100D28696 /* Preview Content */,
-				701178232B41E7C900743C3C /* FrameworkGridViewModel.swift */,
 			);
 			path = "Apple-Frameworks-App";
 			sourceTree = "<group>";
