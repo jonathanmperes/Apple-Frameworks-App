@@ -40,7 +40,7 @@ struct FrameworkDetailView: View {
             Spacer()
             
             Button {
-                
+                isShowingSafariView = true
             } label: {
                 AFButton(title: "Learn More")
             }
