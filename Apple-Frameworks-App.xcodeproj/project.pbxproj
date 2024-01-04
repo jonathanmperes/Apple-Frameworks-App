@@ -16,6 +16,7 @@
 		70A428522B33122300883F65 /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70A428512B33122300883F65 /* AFButton.swift */; };
 		70B5A1812B458980003AA1E1 /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70B5A1802B458980003AA1E1 /* SafariView.swift */; };
 		70B663D82B46C98500E7DAF8 /* FrameworkTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70B663D72B46C98400E7DAF8 /* FrameworkTitleView.swift */; };
+		70B663DC2B46CB2D00E7DAF8 /* XDismissButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70B663DB2B46CB2D00E7DAF8 /* XDismissButton.swift */; };
 		70EFE5AB2B18D3620073946D /* Framework.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70EFE5AA2B18D3620073946D /* Framework.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +32,7 @@
 		70A428512B33122300883F65 /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
 		70B5A1802B458980003AA1E1 /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 		70B663D72B46C98400E7DAF8 /* FrameworkTitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkTitleView.swift; sourceTree = "<group>"; };
+		70B663DB2B46CB2D00E7DAF8 /* XDismissButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XDismissButton.swift; sourceTree = "<group>"; };
 		70EFE5AA2B18D3620073946D /* Framework.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Framework.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -75,6 +77,7 @@
 				702EA8B02B17A57100D28696 /* Assets.xcassets */,
 				702EA8B52B17A57100D28696 /* Info.plist */,
 				702EA8B22B17A57100D28696 /* Preview Content */,
+				70B663DB2B46CB2D00E7DAF8 /* XDismissButton.swift */,
 			);
 			path = "Apple-Frameworks-App";
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 			files = (
 				702E8F702B3087F600E7E28C /* FrameworkDetailView.swift in Sources */,
 				7042C20B2B1E0A3500A9F3E4 /* FrameworkGridView.swift in Sources */,
+				70B663DC2B46CB2D00E7DAF8 /* XDismissButton.swift in Sources */,
 				70EFE5AB2B18D3620073946D /* Framework.swift in Sources */,
 				70A428522B33122300883F65 /* AFButton.swift in Sources */,
 				702EA8AD2B17A56E00D28696 /* Apple_Frameworks_AppApp.swift in Sources */,
