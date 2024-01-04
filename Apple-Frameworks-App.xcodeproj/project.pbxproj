@@ -15,6 +15,7 @@
 		7042C20B2B1E0A3500A9F3E4 /* FrameworkGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7042C20A2B1E0A3500A9F3E4 /* FrameworkGridView.swift */; };
 		70A428522B33122300883F65 /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70A428512B33122300883F65 /* AFButton.swift */; };
 		70B5A1812B458980003AA1E1 /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70B5A1802B458980003AA1E1 /* SafariView.swift */; };
+		70B663D82B46C98500E7DAF8 /* FrameworkTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70B663D72B46C98400E7DAF8 /* FrameworkTitleView.swift */; };
 		70EFE5AB2B18D3620073946D /* Framework.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70EFE5AA2B18D3620073946D /* Framework.swift */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +30,7 @@
 		7042C20A2B1E0A3500A9F3E4 /* FrameworkGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridView.swift; sourceTree = "<group>"; };
 		70A428512B33122300883F65 /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
 		70B5A1802B458980003AA1E1 /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
+		70B663D72B46C98400E7DAF8 /* FrameworkTitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkTitleView.swift; sourceTree = "<group>"; };
 		70EFE5AA2B18D3620073946D /* Framework.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Framework.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -66,6 +68,7 @@
 				7042C20A2B1E0A3500A9F3E4 /* FrameworkGridView.swift */,
 				702E8F6F2B3087F600E7E28C /* FrameworkDetailView.swift */,
 				701178232B41E7C900743C3C /* FrameworkGridViewModel.swift */,
+				70B663D72B46C98400E7DAF8 /* FrameworkTitleView.swift */,
 				70B5A1802B458980003AA1E1 /* SafariView.swift */,
 				70A428512B33122300883F65 /* AFButton.swift */,
 				70EFE5AA2B18D3620073946D /* Framework.swift */,
@@ -159,6 +162,7 @@
 				70A428522B33122300883F65 /* AFButton.swift in Sources */,
 				702EA8AD2B17A56E00D28696 /* Apple_Frameworks_AppApp.swift in Sources */,
 				701178242B41E7C900743C3C /* FrameworkGridViewModel.swift in Sources */,
+				70B663D82B46C98500E7DAF8 /* FrameworkTitleView.swift in Sources */,
 				70B5A1812B458980003AA1E1 /* SafariView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
