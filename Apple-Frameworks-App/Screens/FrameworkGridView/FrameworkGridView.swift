@@ -1,6 +1,6 @@
 //
 //  FrameworkGridView.swift
-//  Apple-Frameworks-App
+//  Apple-Frameworks-App-List
 //
 //  Created by Jonathan Marcelo Peres on 04/12/23.
 //
